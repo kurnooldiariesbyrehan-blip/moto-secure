@@ -1,0 +1,6 @@
+{
+  "name": "Moto Secure Folder",
+  "description": "Protected encrypted vault for Android to hide sensitive files, photos, notes, and apps with PIN, password, pattern, and biometric authentication.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
